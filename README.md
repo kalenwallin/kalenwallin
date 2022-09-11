@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <samp>
-    You can learn more about me on my <a href="https://www.kalenwallin.com">website</a>. I'm also working on a new and improved website from scratch. You can view my progress <a href="https://kalenwallin.pythonanywhere.com">here</a>
+    You can learn more about me on my <a href="https://www.kalenwallin.com">website</a>. I'm also working on a new and improved website from scratch. You can view my progress <a href="https://kalenwallin.pythonanywhere.com">here</a>.
   </samp>
 </p>
 
