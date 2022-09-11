@@ -11,7 +11,7 @@
   </samp>
 </p>
 
-### Programming languages have worked with
+### Programming languages I have worked with
 <table align="center">
     <tr>
         <th>
