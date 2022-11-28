@@ -2,16 +2,16 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KalenWallin/KalenWallin)
 <p align="center">
   <samp>
-    I am an Honors Computer Science student at the <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>. I am currently working at <a href="https://farmafield.com/">FarmAfield</a> as a web developer (started in May 2021). I love to build cool user experiences and I'm always on the grind to improve my skills. If you don't find me programming then I'm probably lifting weights, watching anime, or hanging out with friends & family.
+    Kalen is an Honors Computer Science student at the <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>. He has worked as a web developer for <a href="https://farmafield.com/">FarmAfield</a>. He loves to build cool user experiences and is always on the grind to improve his skills. If you don't find him programming then he's probably lifting weights or chilling with friends & family.
   </samp>
 </p>
 <p align="center">
   <samp>
-    You can learn more about me on my <a href="https://www.kalenwallin.com">website</a>. I'm also working on a new and improved website from scratch. You can view my progress <a href="https://kalenwallin.pythonanywhere.com">here</a>.
+    You can learn more about Kalen at his <a href="https://www.kalenwallin.com">website</a>. He's also working on a new and improved portfolio. You can view the progress <a href="https://kalenwallin.pythonanywhere.com">here</a>.
   </samp>
 </p>
 
-### Programming languages I have worked with
+### Programming languages Kalen has worked with
 <table align="center">
     <tr>
         <th>
@@ -52,7 +52,7 @@
     </tr>
 </table>
 
-### Tools I am familiar with
+### Tools Kalen is familiar with
 <table align="center">
     <tr>
         <th>
