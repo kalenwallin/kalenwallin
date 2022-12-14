@@ -1,4 +1,4 @@
-## Hello, my name is Kalen Wallin!
+## Kalen Wallin
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KalenWallin/KalenWallin)
 <p align="center">
   <samp>
