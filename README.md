@@ -1,23 +1,5 @@
 ## Kalen Wallin
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KalenWallin/KalenWallin)
-<p align="center">
-  <samp>
-    Kalen Wallin is in his fourth year at the University of Nebraska-Lincoln (UNL). He is studying computer science and is in the honors program. During his third year, Kalen studied abroad at Reykjavik University for a semester, where he learned web programming and game engineering architecture. 
-  </samp>
-  <br /><br />
-  <samp>
-Using the programming skills he picked up during his studies, Kalen learned web and game programming in addition to the graphic design he learned in high school. During his time in Lincoln, he developed websites for FarmAfield and developed video games for Mystic Rhoads Productions and UNL Game Development Club. He also has experience with game development through courses at UNL, Reykjavik University, and Chase County Schools.
-  </samp>
-  <br /> <br />
-    <samp>
-Kalen plans to graduate from UNL in the Summer of 2023. He is seeking employment for web or game development.
-  </samp>
-</p>
-<p align="center">
-  <samp>
-    You can learn more about Kalen at his <a href="https://www.kalenwallin.com">website</a>. He's also working on a new portfolio. You can view the progress <a href="https://kalenwallin.pythonanywhere.com">here</a>.
-  </samp>
-</p>
 
 ### Programming languages Kalen has worked with
 <table align="center">
