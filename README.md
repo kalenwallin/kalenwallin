@@ -64,6 +64,9 @@
             <a href="https://www.circleci.com/">
                 <img src="https://d3r49iyjzglexf.cloudfront.net/android-chrome-512x512-636549fcf54150d3184aa6e8395d79ca9bcdc9278210e947ce093372cc2004a4.png" width=60 alt="CircleCI">
             </a>
+            <a href="https://www.vercel.com/">
+                <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/60x60.png" width=60 alt="CircleCI">
+            </a>
             <a href="https://flutter.dev/">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width=60 alt="Flutter">
             </a>
