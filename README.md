@@ -58,6 +58,9 @@
             <a href="https://www.djangoproject.com/">
                 <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" width=60 alt="Django">
             </a>
+            <a href="https://www.cloudflare.com/">
+                <img src="https://www.cloudflare.com/favicon.ico" width=60 alt="CloudFlare">
+            </a>
             <a href="https://flutter.dev/">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width=60 alt="Flutter">
             </a>
@@ -89,7 +92,7 @@
                 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.versluis.com%2Fwp-content%2Fuploads%2F2019%2F09%2FUnity-Icon-Square.png&f=1&nofb=1" width=60 alt="Unity">
             </a>
           <a href="https://godotengine.org/">
-                <img src="https://godotengine.org/themes/godotengine/assets/favicon.png" width=60 alt="Godot">
+                <img src="https://godotengine.org/assets/favicon.png" width=60 alt="Godot">
             </a>
         </th>
     </tr>
