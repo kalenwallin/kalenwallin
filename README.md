@@ -106,6 +106,6 @@
 <br>
 <p align="center">
   <samp>
-    This is a fork of <a href="https://github.com/NathanKolbas/NathanKolbas">Nathan Kolbas' readme</a>
+    Fork of <a href="https://github.com/NathanKolbas/NathanKolbas">Nathan Kolbas' readme</a>
   </samp>
 </p>
