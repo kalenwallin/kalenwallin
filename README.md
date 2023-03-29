@@ -1,5 +1,6 @@
 ## Kalen Wallin
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KalenWallin/KalenWallin) [![wakatime](https://wakatime.com/badge/user/8d75968c-d279-4ce0-a2b1-c5faaf10b884.svg)](https://wakatime.com/@8d75968c-d279-4ce0-a2b1-c5faaf10b884)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=KalenWallin/KalenWallin) 
+[![wakatime](https://wakatime.com/badge/user/8d75968c-d279-4ce0-a2b1-c5faaf10b884.svg)](https://wakatime.com/@8d75968c-d279-4ce0-a2b1-c5faaf10b884)
 
 ### Programming languages Kalen has worked with
 <table align="center">
