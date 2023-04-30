@@ -19,7 +19,7 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width=60 alt="Python">
             </a>
             <a href="https://dart.dev/">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" width=60 alt="Dart">
+                <img src="https://dart.dev/assets/img/touch-icon-iphone-retina.png" width=60 alt="Dart">
             </a>
             <a href="https://en.wikipedia.org/wiki/C_(programming_language)#:~:text=C%20(%2F%CB%88si%CB%90%2F,efficiently%20to%20typical%20machine%20instructions.">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=60 alt="C">
